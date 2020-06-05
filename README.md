@@ -1,4 +1,5 @@
-# Myapp
+# XO_tic_tac_toe
+Simple game about this classic game, just you must to set tree times your symbol to win.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+![game](https://user-images.githubusercontent.com/61268729/83841452-18e6d700-a6be-11ea-8725-5ae15b14fa94.png)
+
