@@ -1,5 +1,6 @@
 # XO_tic_tac_toe
 Simple game about this classic game, just you must to set tree times your symbol to win.
+great game :D
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
